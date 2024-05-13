@@ -1,0 +1,45 @@
+.parentBanner{
+    
+   padding-top: 4.5rem;
+  
+}
+
+
+.parentBanner .childBanner .menuBar{
+    display: flex;
+    align-items: center;
+    padding: 10px 14px 10px 14px;
+}
+
+.categories{
+    display: flex;
+    margin-right: 25px;
+    align-items: center;
+}
+
+.parentBanner .childBanner .menuBar .categories span{
+    margin-right: 10px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+
+.parentBanner .childBanner .menuBar .otherOptions span{
+    padding: 10px;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+}
+.banner img{
+    width: 95%;
+    height: 300px;
+} 
+
+/* .childBanner .banner {
+    position: relative;
+    width: 100vw;
+  }
+  .childBanner .banner img{
+    width: 100vw;
+  } */

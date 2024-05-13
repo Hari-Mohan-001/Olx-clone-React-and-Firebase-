@@ -1,0 +1,38 @@
+.footerParentDiv {
+    width: 100vw;
+  }
+
+  .parentFooter .content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #ebeeef;
+    padding: 16px;
+  }
+
+  .parentFooter .content .heading {
+    font-size: 24px;
+    font-weight: bolder;
+  }
+
+  .parentFooter .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background: #002f34;
+    color: whitesmoke;
+  }
+
+  .parentFooter .footer p {
+    margin: 0;
+    font-size: small;
+    font-family: sans-serif
+  };
+
+  .list{
+    color:grey ;
+  }
+  
+
+ 
